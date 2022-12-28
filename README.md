@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
-![팀편성](https://user-images.githubusercontent.com/117247400/209739761-9248053a-ed84-4a7a-9a7f-8e55fd31f7ea.png)
+
 
 
 # 예제 - 음식배달
